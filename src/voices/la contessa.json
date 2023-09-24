@@ -3,6 +3,13 @@
     "transpose": 12,
     "notes": [
         "| 1", "r", "bb_ 2", "bb_ 2", { "name": "d 2b", "sustain": -3 }, { "dynamic": 1 }, { "name": "c", "sustain": -1 }, { "name": "d", "sustain": -2 },
-        "| 2", { "name": "c", "dynamic": 2, "sustain": true }, "bb_ 2", "bb_ 2"
+        "| 2", { "name": "c", "dynamic": 2, "sustain": true }, "bb_ 2", "bb_ 2", "r 4b",
+        "||3",
+        "||4",
+        { "sustain": true, "dynamic": 2 },
+        "| 5", { "name": "bb_ 3b", "sustain": -1 }, { "name": "c 3b", "sustain": -2 },
+        "| 6", "d", "bb_", { "name": "f", "sustain": -1 }, "eb", "c", { "name": "a_", "sustain": -2 },
+        "| 7", "bb_", { "name": "d", "sustain": -1 }, { "name": "bb_", "sustain": -2 }, { "name": "f_ 3b", "sustain": -3 },
+        "| 8"
     ]
 }

@@ -1,10 +1,16 @@
 {
     "instrument": "harp",
     "beat": 12,
+    "dynamic": 1,
+    "sustain": 3,
     "notes": [
         "||1",
         "| 2", "bb_", "a_",
         "| 3", "bb_", "f_",
-        "| 4", "bb_", "bb_"
+        "| 4", "bb_", "bb_",
+        "| 5", "bb_", "a_",
+        "| 6", "bb_", "f_",
+        "| 7", { "name": "d_", "transpose": 12 }, "bb_",
+        "| 8"
     ]
 }

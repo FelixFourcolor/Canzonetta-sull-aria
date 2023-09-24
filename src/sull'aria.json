@@ -5,15 +5,15 @@
     "voices": [
         "winds/bassoon.json",
         "strings/violin I.json",
-        "winds/oboe.json",
         "strings/violin II.json",
+        "winds/oboe.json",
+        { },
         "strings/cello.json",
-        {},
-        "strings/viola.json",
-        {},
+        { },
         "voices/susanna.json",
         "voices/susanna (reinforcement).json",
-        "voices/la contessa (reinforcement).json",
-        "voices/la contessa.json"
+        "strings/viola.json",
+        "voices/la contessa.json",
+        "voices/la contessa (reinforcement).json"
     ]
 }

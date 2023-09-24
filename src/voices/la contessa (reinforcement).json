@@ -1,5 +1,15 @@
 {
     "instrument": "flute",
+    "dynamic": 1,
+    "sustain": true,
     "notes": [
+        "||1",
+        "||2",
+        "||3",
+        "||4",
+        "| 5", "bb_ 3b", { "name": "c 3b", "sustain": -1 },
+        "| 6", "d", "bb_", "f", "eb", "c", { "name": "a_", "sustain": -1 },
+        "| 7", "bb_", "d", { "name": "bb_", "sustain": -1 }, { "name": "f_ 3b", "sustain": -2 },
+        "| 8"
     ]
 }
