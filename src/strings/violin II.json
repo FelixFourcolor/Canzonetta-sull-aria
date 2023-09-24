@@ -1,1 +1,11 @@
-{}
+{
+    "instrument": "harp",
+    "dynamic": 1,
+    "sustain": true,
+    "notes": [
+        "||1",
+        "| 2", "bb_", "d", "f", "c", "eb", "f",
+        "| 3", "bb_", "d", "f", "a_", "c", "eb",
+        "| 4", "d", "f", "d", "bb_", "d", "f"
+    ]
+}

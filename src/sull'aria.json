@@ -1,15 +1,18 @@
 {
     "time": 24,
     "transpose": 1,
+    "beat": 4,
     "voices": [
-        "strings/cello.json",
         "winds/bassoon.json",
         "strings/violin I.json",
         "winds/oboe.json",
         "strings/violin II.json",
+        "strings/cello.json",
+        {},
         "strings/viola.json",
-        "voices/susanna (reinforcement).json",
+        {},
         "voices/susanna.json",
+        "voices/susanna (reinforcement).json",
         "voices/la contessa (reinforcement).json",
         "voices/la contessa.json"
     ]

@@ -1,1 +1,8 @@
-{}
+{
+    "instrument": "harp",
+    "transpose": 12,
+    "notes": [
+        "| 1", "r", "bb_ 2", "bb_ 2", { "name": "d 2b", "sustain": -3 }, { "dynamic": 1 }, { "name": "c", "sustain": -1 }, { "name": "d", "sustain": -2 },
+        "| 2", { "name": "c", "dynamic": 2, "sustain": true }, "bb_ 2", "bb_ 2"
+    ]
+}

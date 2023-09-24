@@ -1,1 +1,10 @@
-{}
+{
+    "instrument": "flute",
+    "sustain": true,
+    "notes": [
+        "||1",
+        "||2",
+        "| 3", "r 5b", "f",
+        "| 4", "d", "bB_"
+    ]
+}

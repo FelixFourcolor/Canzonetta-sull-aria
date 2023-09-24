@@ -1,1 +1,11 @@
-{}
+{
+    "instrument": "iron_xylophone",
+    "dynamic": 1,
+    "sustain": true,
+    "notes": [
+        "||1",
+        "| 2", "bb_ 3b",  { "name": "c 3b", "sustain": -1 },
+        "| 3", "d", "bb_", { "name": "f", "sustain": -1 }, "eb", "c", { "name": "a_", "sustain": -1 },
+        "| 4", "bb_", { "name": "d", "sustain": -1 }, { "name": "bb_", "sustain": -2 }, { "name": "f_ 3b", "sustain": -3 }
+    ]
+}
