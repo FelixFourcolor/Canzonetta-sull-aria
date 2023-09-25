@@ -1,2 +1,5 @@
-World
-build.sh
+*
+
+!.gitignore
+.src
+.LICENSE

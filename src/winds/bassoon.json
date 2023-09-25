@@ -1,15 +1,20 @@
 {
     "instrument": "iron_xylophone",
-    "dynamic": 1,
-    "sustain": true,
     "notes": [
         "||1",
+        { "dynamic": 1, "sustain": true },
         "| 2", { "name": "bb_ 3b", "sustain": -1 }, { "name": "c 3b", "sustain": -2 },
         "| 3", "d", "bb_", { "name": "f", "sustain": -1 }, "eb", "c", { "name": "a_", "sustain": -2 },
         "| 4", "bb_", { "name": "d", "sustain": -1 }, { "name": "bb_", "sustain": -2 }, { "name": "f_ 3b", "sustain": -3 },
         "||5",
         "||6",
         "||7",
-        "| 8"
+        "| 8", "c", { "name": "eb", "sustain": -1 }, { "name": "c", "sustain": -2 }, { "name": "f_ 3b", "sustain": -3 },
+        "| 9", "f", { "name": "d", "sustain": -1 }, { "name": "f", "sustain": -2 }, { "name": "d 3b", "sustain": -3 },
+        { "sustain": -3 },
+        "| 10", "c", "r 2b", "bb_", "r 2b",
+        { "sustain": -4 },
+        "| 11", "a_ 2b", "r 4b",
+        "| 12"
     ]
 }

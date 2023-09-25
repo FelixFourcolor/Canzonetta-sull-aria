@@ -4,12 +4,16 @@
     "sustain": true,
     "notes": [
         "||1",
-        "| 2", "bb_", "d", "f", "c", "eb", "f",
-        "| 3", "bb_", "d", "f", "a_", "c", "eb",
-        "| 4", "d", "f", "d", "bb_", "d", "f",
-        "| 5", "bb_", "d", "f", "c", "eb", "f",
-        "| 6", "bb_", "d", "f", "a_", "c", "eb",
-        "| 7", "bb_", "d", "f", "bb_", "d", "f",
-        "| 8"
+        "| 2", "bb_", { "name": "d", "sustain": -1 }, "f", "c", { "name": "eb", "sustain": -1 }, "f",
+        "| 3", "bb_", { "name": "d", "sustain": -1 }, "f", "a_", { "name": "c", "sustain": -1 }, "eb",
+        "| 4", "d", { "name": "f", "sustain": -1 }, "d", "bb_", { "name": "d", "sustain": -1 }, "f",
+        "| 5", "bb_", { "name": "d", "sustain": -1 }, "f", "c", { "name": "eb", "sustain": -1 }, "f",
+        "| 6", "bb_", { "name": "d", "sustain": -1 }, "f", "a_", { "name": "c", "sustain": -1 }, "eb",
+        "| 7", "bb_", { "name": "d", "sustain": -1 }, "f", "bb_", { "name": "d", "sustain": -1 }, "f",
+        "| 8", "a_", { "name": "c", "sustain": -1 }, "f", "a_", { "name": "c", "sustain": -1 }, "f",
+        "| 9", "bb_", { "name": "d", "sustain": -1 }, "f", "bb_", { "name": "d", "sustain": -1 }, "f",
+        "| 10", "c", { "name": "eb", "sustain": -1 }, "f", "bb_", { "name": "d", "sustain": -1 }, "f",
+        "| 11", "a_", { "name": "c", "sustain": -1 }, "f", "a_", { "name": "c", "sustain": -1 }, "f",
+        "| 12"
     ]
 }
