@@ -30,8 +30,8 @@
         "| 25", { "name": "eb", "sustain": -2 }, "r 2b", { "name": "d", "sustain": -2 }, "r 2b",
         "| 26", { "name": "c", "sustain": -2 }, "r 3b", "c", { "name": "d", "sustain": -1 },
         "| 27", "eb 4b", { "dynamic": 1 }, "f", "g",
-        "| 28", "f", "bb", "d", { "dynamic": 2 }, "c", "eb", "g",
-        "| 29", "f", "d", "bb_", { "dynamic": 1 }, "f_", "g", "a",
+        "| 28", "f", "bb", "d", "c", "eb", "g",
+        "| 29", "f", "d", "bb_", "f_", "g", "a",
         "| 30"
     ]
 }
