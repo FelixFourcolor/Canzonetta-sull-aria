@@ -1,7 +1,8 @@
 {
     "instrument": "harp",
     "beat": 12,
-    "dynamic": 1,
+    "dynamic": 2,
+    "sustainDynamic": 2,
     "sustain": 3,
     "transpose": -12,
     "notes": [

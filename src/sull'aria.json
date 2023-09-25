@@ -10,11 +10,11 @@
         "winds/bassoon.json",
         {},
         "winds/oboe.json",
-        "voices/susanna.json",
-        "voices/la contessa.json",
-        "strings/cello.json",
         "strings/viola.json",
-        "voices/susanna (reinforcement).json",
-        "voices/la contessa (reinforcement).json"
+        "voices/susanna (hard).json",
+        "voices/la contessa (hard).json",
+        "strings/cello.json",
+        "voices/susanna (soft).json",
+        "voices/la contessa (soft).json"
     ]
 }
