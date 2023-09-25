@@ -4,16 +4,17 @@
     "beat": 4,
     "voices": [
         "strings/violin I.json",
-        {},
+        { },
         "strings/violin II.json",
-        {},
+        { },
         "winds/bassoon.json",
-        "voices/susanna.json",
+        {},
         "winds/oboe.json",
-        "strings/cello.json",
-        "voices/susanna (reinforcement).json",
-        "strings/viola.json",
+        "voices/susanna.json",
         "voices/la contessa.json",
+        "strings/cello.json",
+        "strings/viola.json",
+        "voices/susanna (reinforcement).json",
         "voices/la contessa (reinforcement).json"
     ]
 }

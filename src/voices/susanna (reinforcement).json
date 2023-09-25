@@ -13,8 +13,8 @@
         "||7",
         "||8",
         "||9",
-        "| 10", "eb", "c", { "name": "f", "sustain": -1 }, "d", "bb_", { "name": "f", "sustain": -1 },
-        "| 11", "f 2b", { "name": "c", "sustain": -1 }, "c 2b", "r",
+        "| 10", "eb", { "name": "c", "dynamic": 1 }, { "name": "f", "sustain": -1, "dynamic": 1 }, "d", { "name": "bb_", "dynamic": 1 }, { "name": "f", "sustain": -1, "dynamic": 1 },
+        "| 11", "f 2b", { "name": "c", "sustain": -1, "dynamic": 1 }, "c 2b", "r",
         "| 12"
     ]
 }
