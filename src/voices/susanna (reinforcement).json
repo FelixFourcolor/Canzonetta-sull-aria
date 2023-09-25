@@ -14,7 +14,7 @@
         "||8",
         "||9",
         "| 10", "eb", "c", { "name": "f", "sustain": -1 }, "d", "bb_", { "name": "f", "sustain": -1 },
-        "| 11", "f 2b", { "name": "c", "sustain": -1 }, { "name": "c 2b", "sustain": -2 }, "r",
+        "| 11", "f 2b", { "name": "c", "sustain": -1 }, "c 2b", "r",
         "| 12"
     ]
 }

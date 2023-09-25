@@ -1,5 +1,2 @@
-*
-
-!.gitignore
-.src
-.LICENSE
+World*
+build*
