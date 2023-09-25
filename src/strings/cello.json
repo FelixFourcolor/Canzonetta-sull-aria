@@ -3,7 +3,7 @@
     "beat": 12,
     "notes":
     [
-        "| 1", { "name": "bb 16", "sustain": true, "dynamic": 2, "sustainDynamic": 2 }, { "dynamic": 1 }, { "name": "bb 8", "sustain": -3 },
+        "||1",
         "| 2", "bb", "a",
         "| 3", "bb", "f",
         "| 4", "bb", "bb",
