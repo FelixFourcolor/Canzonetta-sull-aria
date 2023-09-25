@@ -1,5 +1,6 @@
 {
     "instrument": "bass",
+    "dynamic": 1,
     "beat": 12,
     "notes":
     [
