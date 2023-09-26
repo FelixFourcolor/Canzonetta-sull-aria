@@ -49,6 +49,13 @@
         "| 42", { "name": "eb", "dynamic": 3 }, { "name": "c", "sustain": -1 }, { "name": "f", "sustain": -2, "dynamic": 3 }, { "name": "d", "dynamic": 3 }, { "name": "bb_", "sustain": -1 }, { "name": "f", "sustain": -2, "dynamic": 3 },
         "| 43", { "name": "f 2b", "dynamic": 3 }, { "name": "c", "sustain": -2 }, "r 3b",
         "||44",
-        "| 45"
+        "| 45", "r 4b", { "name": "c", "dynamic": 3, "sustain": -2 }, { "name": "c", "dynamic": 3, "sustain": -2 },
+        "| 46", { "name": "d", "dynamic": 3 }, { "name": "bb_", "sustain": -1 }, { "name": "f", "dynamic": 3, "sustain": -2 }, { "name": "eb", "dynamic": 3 }, { "name": "c", "sustain": -1 }, { "name": "f", "dynamic": 3, "sustain": -2 },
+        "| 47", { "name": "d 2b", "dynamic": 3, "sustain": -3 }, "r 3b", { "name": "c", "dynamic": 3, "sustain": -2 },
+        { "beat": 2 },
+        "| 48", { "name": "d", "dynamic": 3 }, "f", "e", "f", "e", { "name": "f", "sustain": -1 }, { "name": "c", "dynamic": 3 }, "f", "e", "f", "e", { "name": "f", "sustain": -1 },
+        { "beat": 4 },
+        "| 49", { "name": "d 2b", "dynamic": 3, "sustain": -3 }, "r 4b",
+        "| 50"
     ]
 }

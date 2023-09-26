@@ -47,6 +47,13 @@
         "| 42", "eb", "c", { "name": "f", "sustain": -1 }, "d", "bb_", { "name": "f", "sustain": -1 },
         "| 43", "f 2b", "c", "r 3b",
         "||44",
-        "| 45"
+        "| 45", "r 4b", { "name": "c", "sustain": -1 }, { "name": "c", "sustain": -1 },
+        "| 46", "d", "bb_", { "name": "f", "sustain": -1 }, "eb", "c", { "name": "f", "sustain": -1 },
+        "| 47", { "name": "d 2b", "sustain": -1 }, "r 3b", { "name": "c", "sustain": -1 },
+        { "beat": 2 },
+        "| 48", "d", "f", "e", "f", "e", "f", "c", "f", "e", "f", "e", "f",
+        { "beat": 4 },
+        "| 49", { "name": "d 2b", "sustain": -1 }, "r 4b",
+        "| 50"
     ]
 }

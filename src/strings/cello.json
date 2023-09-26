@@ -53,6 +53,12 @@
         "| 44", "f^", "f",
         { "sustain": -1 },
         "| 45", "bb", "a",
-        "| 46", "bb", { "name": "f", "sustain": -3 }
+        "| 46", "bb", { "name": "f", "sustain": -3 },
+        "| 47", "bb", "a",
+        "| 48", "bb", { "name": "f", "sustain": -3 },
+        "| 49", "bb", { "name": "a", "sustain": -3 },
+        { "sustain": false },
+        "| 50", "bb", { "name": "bb^", "transpose": -12 },
+        "| 51"
     ]
 }

@@ -48,6 +48,11 @@
         "| 43", "a_", "c", { "name": "f", "sustain": -1 }, "g", "c^", { "name": "eb^", "sustain": -1 },
         "| 44", "d", "f", { "name": "bb", "sustain": -1 }, "c", "eb", { "name": "f", "sustain": -1 },
         "| 45", "bb_", "d", { "name": "f", "sustain": -1 }, "c", "eb", { "name": "f", "sustain": -1 },
-        "| 46"
+        "| 46", "bb_", "d", { "name": "f", "sustain": -1 }, "a_", "c", { "name": "f", "sustain": -1 },
+        "| 47", "bb_", "d", { "name": "f", "sustain": -1 }, "c", "eb", { "name": "f", "sustain": -1 },
+        "| 48", "bb_", "d", { "name": "f", "sustain": -1 }, "a_", "c", { "name": "f", "sustain": -1 },
+        "| 49", "bb_", "d", { "name": "f", "sustain": -1 }, "c", "eb", { "name": "f", "sustain": -1 },
+        "| 50", "bb_", "d", { "name": "f", "sustain": -1 }, "bb", "a", { "name": "ab", "sustain": -1 },
+        "| 51"
     ]
 }
