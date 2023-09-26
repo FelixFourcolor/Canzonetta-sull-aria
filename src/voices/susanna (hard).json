@@ -5,7 +5,7 @@
     "notes": [
         "||1",
         "| 2", "r 5b", { "name": "f", "dynamic": 2, "sustain": -2 },
-        "| 3", { "name": "d", "dynamic": 2, "sustain": -1 }, { "name": "bb_ 2", "dynamic": 2, "sustain": -1 }, { "name": "bb_ 2", "dynamic": 2, "sustain": -1 }, "r 4b",
+        "| 3", { "name": "d", "dynamic": 2, "sustain": -1 }, { "name": "bb_ 2", "dynamic": 2 }, { "name": "bb_ 2", "dynamic": 2, "sustain": -1 }, "r 4b",
         "||4",
         "||5",
         "||6",
@@ -31,6 +31,15 @@
         "| 26", "r 4b", { "name": "bb_", "dynamic": 2, "sustain": -2 }, { "name": "bb_", "dynamic": 2, "sustain": -2 },
         "| 27", { "name": "f", "dynamic": 2 }, { "name": "d", "sustain": -2 }, { "name": "bb_", "dynamic": 2, "sustain": -2 }, "r 3b",
         "| 28", "r 3b", { "name": "f_", "dynamic": 2 }, { "name": "g_", "sustain": -1 }, { "name": "a_", "dynamic": 2, "sustain": -2 },
-        "| 29"
+        "| 29", { "name": "bb_", "sustain": -2 }, { "name": "bb_", "sustain": -2 }, "r 4b",
+        "||30",
+        "| 31", "r 4b", { "name": "c", "dynamic": 2, "sustain": -2 }, { "name": "c", "dynamic": 2, "sustain": -2 },
+        "| 32", { "name": "d", "dynamic": 2 }, { "name": "bb_", "sustain": -1 }, { "name": "f", "dynamic": 2, "sustain": -2 }, { "name": "eb", "dynamic": 2 }, { "name": "c", "sustain": -1 }, { "name": "f", "dynamic": 2, "sustain": -2 },
+        "| 33", { "name": "d 2b", "dynamic": 2, "sustain": -2 }, "r 4b",
+        "| 34", { "name": "d 4b", "dynamic": 2 }, { "name": "eb", "sustain": -1 }, { "name": "f", "dynamic": 2, "sustain": -2 },
+        "| 35", { "name": "g 3b", "dynamic": 2, "sustain": -3 }, { "name": "eb 2b", "dynamic": 2 }, { "name": "d", "dynamic": 2, "sustain": -2 },
+        "| 36", { "name": "c 3b", "dynamic": 2, "sustain": -3 }, { "name": "f 3b", "dynamic": 2, "sustain": -3 },
+        "| 37", { "name": "bb_ 2b", "dynamic": 2, "sustain": -2 }, "r 4b",
+        "| 38"
     ]
 }

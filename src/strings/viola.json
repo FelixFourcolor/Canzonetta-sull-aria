@@ -34,6 +34,11 @@
         "| 26", "g", { "transpose": 12 }, "eb",
         "| 27", "d", "eb",
         "| 28", { "transpose": 0 }, "f", "f",
-        "| 29"
+        "| 29", { "name": "f 2b 2b 2b 2b 2b", "sustain": "-11", "sustainDynamic": 1 },
+        "| 34", "bb", "bb",
+        "| 35", { "name": "eb", "transpose": 12 }, { "name": "eb", "transpose": 12 },
+        "| 36", "f", "f",
+        "| 37", "bb", "a",
+        "| 38"
     ]
 }

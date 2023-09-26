@@ -31,6 +31,15 @@
         "| 26", "r 4b", { "name": "bb_", "sustain": -1 }, { "name": "bb_", "sustain": -1 },
         "| 27", "f", { "name": "d", "sustain": -1 }, "bb_", "r 3b",
         "| 28", "r 3b", "f_", "g_", { "name": "a_", "sustain": -1 },
-        "| 29"
+        "| 29", { "name": "bb_", "sustain": -1 }, "bb_", "r 4b",
+        "||30",
+        "| 31", "r 4b", { "name": "c", "sustain": -1 }, { "name": "c", "sustain": -1 },
+        "| 32", "d", "bb_", { "name": "f", "sustain": -1 }, "eb", "c", { "name": "f", "sustain": -1 },
+        "| 33", "d 2b", "r 4b",
+        "| 34", "d 4b", "eb", { "name": "f", "sustain": -1 },
+        "| 35", { "name": "g 3b", "sustain": -1 }, "eb 2b", { "name": "d", "sustain": -1 },
+        "| 36", { "name": "c 3b", "sustain": -1 }, { "name": "f 3b", "sustain": -1 },
+        "| 37", "bb_ 2b", "r 4b",
+        "| 38"
     ]
 }

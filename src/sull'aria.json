@@ -10,11 +10,11 @@
         "strings/violin I.json",
         { },
         "strings/violin II.json",
-        { },
-        "strings/viola.json",
-        "voices/la contessa (hard).json",
-        "voices/susanna (hard).json",
         "strings/cello.json",
+        "voices/la contessa (hard).json",
+        "strings/viola.json",
+        "voices/susanna (hard).json",
+        { },
         "voices/la contessa (soft).json",
         "voices/susanna (soft).json"
     ]

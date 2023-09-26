@@ -1,9 +1,10 @@
 {
     "instrument": "bass",
-    "dynamic": 1,
+    "dynamic": 2,
     "beat": 12,
     "notes":
     [
+        { "sustain": false },
         "| 1", "bb", "a",
         "| 2", "bb", "f",
         "| 3", "bb", "bb",
@@ -32,6 +33,17 @@
         "| 26", { "name": "g^", "transpose": -12 }, "eb^",
         "| 27", "d^", "eb^",
         "| 28", "f^", "f",
-        "| 29"
+        { "sustain": true },
+        "| 29", "bb", "a",
+        "| 30", "bb", { "name": "f", "sustain": -2 },
+        "| 31", "bb", "a",
+        "| 32", "bb", { "name": "f", "sustain": -2 },
+        "| 33", { "name": "bb", "sustain": -3 }, "r",
+        { "sustain": false },
+        "| 34", "bb", { "name": "bb^", "transpose": -12 },
+        "| 35", "eb^", "eb^",
+        "| 36", "f^", "f^",
+        "| 37", "bb", "a",
+        "| 38"
     ]
 }

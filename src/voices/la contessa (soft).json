@@ -6,7 +6,7 @@
         "||1",
         "||2",
         "||3",
-        "| 4", "bb_ 3b", { "name": "c 3b", "sustain": -1 },
+        "| 4", { "name": "bb_ 3b", "sustain": -1 }, { "name": "c 3b", "sustain": -1 },
         "| 5", "d", "bb_", { "name": "f", "sustain": -1 }, "eb", "c", { "name": "a_", "sustain": -1 },
         "| 6", "bb_", "d", { "name": "bb_", "sustain": -1 }, { "name": "f_ 3b", "sustain": -2 },
         "||7",
@@ -31,6 +31,15 @@
         "||26",
         "||27",
         "||28",
-        "| 29"
+        "| 29", "r 4b", { "name": "c", "sustain": -1 }, { "name": "c", "sustain": -1 },
+        "| 30", "d", "bb_", { "name": "f", "sustain": -1 }, "eb", "c", { "name": "f", "sustain": -1 },
+        "| 31", "d 2b", "r 4b",
+        "||32",
+        "||33",
+        "| 34", "bb_ 4b", "c", { "name": "d", "sustain": -1 },
+        "| 35", { "name": "eb 3b", "sustain": -1 }, "c 2b", { "name": "bb_", "sustain": -1 },
+        "| 36", { "name": "a_ 3b", "sustain": -1 }, { "name": "a_ 3b", "sustain": -1 },
+        "| 37", "bb_ 2b", "r 4b",
+        "| 38"
     ]
 }
