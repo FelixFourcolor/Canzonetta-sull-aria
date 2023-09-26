@@ -40,6 +40,13 @@
         "| 35", { "name": "eb 3b", "sustain": -1 }, "c 2b", { "name": "bb_", "sustain": -1 },
         "| 36", { "name": "a_ 3b", "sustain": -1 }, { "name": "a_ 3b", "sustain": -1 },
         "| 37", "bb_ 2b", "r 4b",
-        "| 38"
+        "| 38", { "sustain": -1 }, "r 2b", "f_ 2", "f_ 2", "f_", "f_", "f_",
+        "| 39", "bb_", { "sustain": true }, "bb_", "r 4b",
+        "||40",
+        "| 41", "bb_ 4b", "d", { "name": "f", "sustain": -1 },
+        "| 42", "eb", "c", { "name": "f", "sustain": -1 }, "d", "bb_", { "name": "f", "sustain": -1 },
+        "| 43", "f 2b", "c", "r 3b",
+        "||44",
+        "| 45"
     ]
 }

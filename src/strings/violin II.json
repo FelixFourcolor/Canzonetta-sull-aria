@@ -40,6 +40,14 @@
         "| 35", "g", "bb", { "name": "eb^", "sustain": -1 }, "c", "eb", { "name": "g", "sustain": -1 },
         "| 36", "a_", "c", { "name": "f", "sustain": -1 }, "eb", "d", { "name": "c", "sustain": -1 },
         "| 37", "bb_", "d", { "name": "f", "sustain": -1 }, "c", "eb", { "name": "f", "sustain": -1 },
-        "| 38"
+        "| 38", "bb_", "d", { "name": "f", "sustain": -1 }, "a_", "c", { "name": "eb", "sustain": -1 },
+        "| 39", "d", "f", { "name": "d", "sustain": -1 }, "c", "eb", { "name": "f", "sustain": -1 },
+        "| 40", "bb_", "d", { "name": "f", "sustain": -1 }, "a_", "c", { "name": "eb", "sustain": -1 },
+        "| 41", "bb_", "d", { "name": "f", "sustain": -1 }, "d", "f", { "name": "bb", "sustain": -1 },
+        "| 42", "c", "eb", { "name": "f", "sustain": -1 }, "bb_", "d", { "name": "f", "sustain": -1 },
+        "| 43", "a_", "c", { "name": "f", "sustain": -1 }, "g", "c^", { "name": "eb^", "sustain": -1 },
+        "| 44", "d", "f", { "name": "bb", "sustain": -1 }, "c", "eb", { "name": "f", "sustain": -1 },
+        "| 45", "bb_", "d", { "name": "f", "sustain": -1 }, "c", "eb", { "name": "f", "sustain": -1 },
+        "| 46"
     ]
 }

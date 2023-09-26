@@ -1,6 +1,7 @@
 {
     "instrument": "bell",
     "dynamic": 1,
+    "sustainDynamic": 1,
     "sustain": true,
     "notes": [
         "||1",
@@ -40,6 +41,15 @@
         "| 35", { "name": "g 3b", "dynamic": 2, "sustain": -3 }, { "name": "eb 2b", "dynamic": 2 }, { "name": "d", "dynamic": 2, "sustain": -2 },
         "| 36", { "name": "c 3b", "dynamic": 2, "sustain": -3 }, { "name": "f 3b", "dynamic": 2, "sustain": -3 },
         "| 37", { "name": "bb_ 2b", "dynamic": 2, "sustain": -2 }, "r 4b",
-        "| 38"
+        "||38",
+        "| 39", { "name": "bb_ 3b", "dynamic": 2, "sustain": -3 }, { "name": "c 3b", "dynamic": 2, "sustain": -3 },
+        "| 40", { "name": "d", "dynamic": 2 }, { "name": "bb_", "sustain": -1 }, { "name": "f", "dynamic": 2, "sustain": -2 }, { "name": "eb", "dynamic": 2 }, { "name": "c", "sustain": -1 }, { "name": "a_", "dynamic": 2, "sustain": -2 },
+        "| 41", { "name": "bb_", "dynamic": 2 }, "d", { "name": "bb_", "sustain": -2 }, { "name": "f_ 3b", "dynamic": 2, "sustain": -4 },
+        "||42",
+        "| 43", { "name": "c 4b", "dynamic": 2 }, { "name": "eb", "sustain": -1 }, { "name": "g", "sustain": -2, "dynamic": 2 },
+        "| 44", { "name": "f", "dynamic": 2 }, { "name": "d", "sustain": -1 }, { "name": "bb_", "sustain": -2, "dynamic": 2 }, { "name": "f_", "dynamic": 2 }, { "name": "g_", "sustain": -1 }, { "name": "a_", "sustain": -2, "dynamic": 2 },
+        "| 45", { "name": "bb_", "dynamic": 2, "sustain": -2 }, { "name": "bb_", "dynamic": 2, "sustain": -2 }, "r 4b",
+        "||46",
+        "| 47"
     ]
 }
