@@ -53,6 +53,17 @@
         "| 48", "bb_", { "name": "d", "sustain": -1 }, "f", "a_", { "name": "c", "sustain": -1 }, "f",
         "| 49", "bb_", { "name": "d", "sustain": -1 }, "f", "c", { "name": "eb", "sustain": -1 }, "f",
         "| 50", "bb_", { "name": "d", "sustain": -1 }, "f", "bb", { "name": "a", "sustain": -1 }, "ab",
-        "| 51"
+        "| 51", "g", { "name": "bb", "sustain": -1 }, "eb^", "c", { "name": "eb", "sustain": -1 }, "g",
+        "| 52", "a_", { "name": "c", "sustain": -1 }, "f", "eb", { "name": "d", "sustain": -1 }, "c",
+        "| 53", "bb_", { "name": "d", "sustain": -1 }, "f", "bb", { "name": "a", "sustain": -1 }, "ab",
+        "| 54", "g", { "name": "bb", "sustain": -1 }, "eb^", "c", { "name": "eb", "sustain": -1 }, "g",
+        "| 55", "a_", { "name": "c", "sustain": -1 }, "f", "eb", { "name": "d", "sustain": -1 }, "c",
+        { "sustain": -1 },
+        "| 56", "bb_", "d", "d", "d", "d", "d",
+        "| 57", "c", "c", "c", "c", "c", "c",
+        "| 58", "d", "d", "d", "d", "d", "d",
+        "| 59", "c", "c", "c", "c", "c", "c",
+        "| 60", "d"
+
     ]
 }

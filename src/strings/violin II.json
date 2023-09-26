@@ -53,6 +53,16 @@
         "| 48", "bb_", "d", { "name": "f", "sustain": -1 }, "a_", "c", { "name": "f", "sustain": -1 },
         "| 49", "bb_", "d", { "name": "f", "sustain": -1 }, "c", "eb", { "name": "f", "sustain": -1 },
         "| 50", "bb_", "d", { "name": "f", "sustain": -1 }, "bb", "a", { "name": "ab", "sustain": -1 },
-        "| 51"
+        "| 51", "g", "bb", { "name": "eb^", "sustain": -1 }, "c", "eb", { "name": "g", "sustain": -1 },
+        "| 52", "a_", "c", { "name": "f", "sustain": -1 }, "eb", "d", { "name": "c", "sustain": -1 },
+        "| 53", "bb_", "d", { "name": "f", "sustain": -1 }, "bb", "a", { "name": "ab", "sustain": -1 },
+        "| 54", "g", "bb", { "name": "eb^", "sustain": -1 }, "c", "eb", { "name": "g", "sustain": -1 },
+        "| 55", "a_", "c", { "name": "f", "sustain": -1 }, "eb", "d", { "name": "c", "sustain": -1 },
+        { "sustain": -2 },
+        "| 56", "bb_", "bb_", "bb_", "bb_", "bb_", "bb_",
+        "| 57", "a_", "a_", "a_", "a_", "a_", "a_",
+        "| 58", "bb_", "bb_", "bb_", "bb_", "bb_", "bb_",
+        "| 59", "a_", "a_", "a_", "a_", "a_", "a_",
+        "| 60", "bb_"
     ]
 }

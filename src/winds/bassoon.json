@@ -55,6 +55,9 @@
         "| 49", "bb_ 3b", { "name": "c 3b", "sustain": -2 }, { "sustainDynamic": 2 },
         "| 50", { "name": "bb_ 3b", "dynamic": 3 }, { "name": "bb_ 3b 1b", "sustain": -1 }, "r 5b",
         "||52",
-        "| 53", "r"
+        "| 53", "r", { "name": "bb_", "dynamic": 3, "sustain": -2 }, { "name": "bb_", "dynamic": 3, "sustain": -2 },
+        "bb_ 3b 3b", { "dynamic": 1, "sustainDynamic": 1 }, { "name": "eb^", "sustain": -1 }, "r 2b",
+        "||55",
+        "| 56", { "name": "f 6b 6b 6b 6b 1b", "sustain": -2 }
     ]
 }

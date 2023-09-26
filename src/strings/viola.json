@@ -1,11 +1,8 @@
 {
     "instrument": "harp",
-    "beat": 12,
-    "dynamic": 2,
-    "sustainDynamic": 2,
-    "sustain": 3,
     "transpose": -12,
     "notes": [
+        { "beat": 12, "sustain": 3, "dynamic": 2, "sustainDynamic": 2 },
         "| 1", "bb", "a",
         "| 2", "bb", "f",
         "| 3", "bb", "bb",
@@ -47,6 +44,16 @@
         "| 43", { "transpose": 12 }, "f", "eb", { "transpose": 0 },
         "| 44", "f", "f",
         "| 45", { "name": "f 2b 2b 2b 2b 2b 1b", "sustain": "-3", "sustainDynamic": 1 }, "bb",
-        "| 51"
+        "| 51", { "transpose": 12 }, "eb", "eb", { "transpose": 0 },
+        "| 52", "f", "f",
+        "| 53", "f", "bb",
+        "| 54", { "transpose": 12 }, "eb", "eb", { "transpose": 0 },
+        "| 55", "f", "f",
+        { "beat": 4, "dynamic": 1, "sustain": -3 },
+        "| 56", "f", "f", "f", "f", "f", "f",
+        "| 57", "f", "f", "f", "f", "f", "f",
+        "| 58", "f", "f", "f", "f", "f", "f",
+        "| 59", "f", "f", "f", "f", "f", "f",
+        "| 60", "f"
     ]
 }
