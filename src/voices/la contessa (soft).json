@@ -54,6 +54,16 @@
         "| 48", "d", "f", "e", "f", "e", "f", "c", "f", "e", "f", "e", "f",
         { "beat": 4 },
         "| 49", { "name": "d 2b", "sustain": -1 }, "r 4b",
-        "| 50"
+        "| 50", "bb_ 4b", "c", { "name": "d", "sustain": -1 },
+        "| 51", { "name": "eb 3b", "sustain": -1 }, "c 2b", { "name": "bb_", "sustain": -1 },
+        "| 52", { "name": "a_ 3b", "sustain": -1 }, { "name": "a_ 3b", "sustain": -1 },
+        "| 53", { "name": "bb_ 3b", "sustain": -1 }, "bb_", "c", { "name": "d", "sustain": -1 },
+        "| 54", "eb 3b", "g", "eb", { "name": "c", "sustain": -1 },
+        "| 55", { "name": "a_ 3b", "sustain": -1 }, { "name": "a_ 3b", "sustain": -1 },
+        "| 56", { "name": "bb_ 2b", "sustain": -1 }, "r 4b",
+        "| 57", "r 2b", { "name": "f_", "sustain": -1 }, { "name": "f_ 2b", "sustain": -1 }, "g_ 2", "a_ 2",
+        "| 58", { "name": "bb_ 2b", "sustain": -1 }, { "name": "d", "sustain": -1 }, { "name": "bb_ 2b", "sustain": -1 }, { "name": "d", "sustain": -1 },
+        "| 59", "f 2b", "r 4b",
+        "| 60"
     ]
 }

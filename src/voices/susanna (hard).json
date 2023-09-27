@@ -55,6 +55,16 @@
         { "beat": 2 },
         "| 49", { "name": "d", "dynamic": 2 }, "f", "e", "f", "e", { "name": "f", "sustain": -1 }, { "name": "c", "dynamic": 2 }, "f", "e", "f", "e", { "name": "f", "sustain": -1 },
         { "beat": 4 },
-        "| 50", { "name": "d 2b", "dynamic": 2, "sustain": -3 }
+        "| 50", { "name": "d 3b", "dynamic": 2, "sustain": -3 }, { "name": "d", "dynamic": 2 }, { "name": "eb", "sustain": -1 }, { "name": "f", "dynamic": 2, "sustain": -2 },
+        "| 51", { "name": "g 3b", "dynamic": 2, "sustain": -3 }, { "name": "eb 2b", "dynamic": 2 }, { "name": "d", "dynamic": 2, "sustain": -2 },
+        "| 52", { "name": "c 3b", "dynamic": 2, "sustain": -3 }, { "name": "f 3b", "dynamic": 2, "sustain": -3 },
+        "| 53", { "name": "d 3b", "dynamic": 2, "sustain": -3 }, { "name": "d", "dynamic": 2 }, { "name": "eb", "sustain": -1 }, { "name": "f", "dynamic": 2, "sustain": -2 },
+        "| 54", { "name": "g 3b", "dynamic": 2 }, "bb", { "name": "g", "sustain": -1 }, { "name": "eb", "dynamic": 2, "sustain": -2 },
+        "| 55", { "name": "c 3b", "dynamic": 2, "sustain": -3 }, { "name": "f 3b", "dynamic": 2, "sustain": -3 },
+        "| 56", { "name": "bb_ 2b", "dynamic": 2, "sustain": -3 }, { "name": "d", "dynamic": 2, "sustain": -2 }, { "name": "bb_ 2b", "dynamic": 2, "sustain": -1 }, { "name": "d", "dynamic": 2, "sustain": -2 },
+        "| 57", { "name": "f 2b", "dynamic": 2, "sustain": -3 }, "r 4b",
+        "||58",
+        "| 59", "r 2b", { "name": "f_", "dynamic": 2, "sustain": -2 }, { "name": "f_ 2b", "dynamic": 2, "sustain": -2 }, { "name": "g_ 2", "dynamic": 2 }, { "name": "a_ 2", "sustain": -1 },
+        "| 60", { "name": "bb_ 2b", "dynamic": 2, "sustain": -2 }
     ]
 }
