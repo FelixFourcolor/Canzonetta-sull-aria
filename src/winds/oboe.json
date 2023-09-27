@@ -20,7 +20,7 @@
         "| 14", "g_ 4b", "a_", "bb_",
         "| 15", "c", "f", { "name": "a_", "sustain": -1 }, { "name": "d", "sustain": -2 }, "r 2b",
         "| 16", { "name": "c", "sustain": -2 }, "r 2b", { "name": "e", "sustain": -2 }, "r 2b",
-        "| 17", "f", { "name": "f_", "dynamic": 3, "sustain": -2 }, { "name": "f_", "dynamic": 3, "sustain": -2 }, "f_", "g_", "a_",
+        "| 17", { "name": "f", "sustain": -1 }, { "name": "f_", "sustain": -2 }, { "name": "f_", "sustain": -2 }, "f_", "g_", "a_",
         "| 18", { "name": "bb_ 2b", "sustain": -2 }, "r 4b",
         "||19",
         "||20",

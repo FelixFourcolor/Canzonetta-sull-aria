@@ -8,13 +8,13 @@
         "winds/oboe.json",
         { },
         "strings/violin I.json",
-        "strings/cello.json",
-        "strings/violin II.json",
-        "voices/susanna (hard).json",
-        "strings/viola.json",
-        "voices/susanna (soft).json",
-        "voices/la contessa (hard).json",
         { },
-        "voices/la contessa (soft).json"
+        "strings/violin II.json",
+        "strings/cello.json",
+        "voices/susanna (hard).json",
+        "voices/susanna (soft).json",
+        "strings/viola.json",
+        "voices/la contessa (soft).json",
+        "voices/la contessa (hard).json"
     ]
 }
