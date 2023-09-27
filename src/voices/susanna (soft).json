@@ -64,6 +64,9 @@
         "| 57", { "name": "f 2b", "sustain": -1 }, "r 4b",
         "||58",
         "| 59", "r 2b", { "name": "f_", "sustain": -1 }, { "name": "f_ 2b", "sustain": -1 }, "g_ 2", "a_ 2",
-        "| 60", "bb_ 2b"
+        { "beat": 6 },
+        "| 60", "bb_ 1b +3", "r 2b -3", { "name": "d", "sustain": -1 }, { "name": "eb 2b", "sustain": -1 }, { "name": "f", "sustain": -1 },
+        "d 1b +3", "r 2b -3", { "name": "bb_", "sustain": -1 }, { "name": "c 3b +3", "sustain": -1 }, { "name": "a_ 2b -3", "sustain": -1 },
+        "bb_ 2b"
     ]
 }

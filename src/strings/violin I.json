@@ -1,8 +1,7 @@
 {
     "instrument": "harp",
-    "dynamic": 1,
-    "sustain": true,
     "notes": [
+        { "dynamic": 1, "sustain": true },
         "| 1", "bb_", { "name": "d", "sustain": -1 }, "f", "c", { "name": "eb", "sustain": -1 }, "f",
         "| 2", "bb_", { "name": "d", "sustain": -1 }, "f", "a_", { "name": "c", "sustain": -1 }, "eb",
         "| 3", "d", { "name": "f", "sustain": -1 }, "d", "bb_", { "name": "d", "sustain": -1 }, "f",
@@ -58,12 +57,14 @@
         "| 53", "bb_", { "name": "d", "sustain": -1 }, "f", "bb", { "name": "a", "sustain": -1 }, "ab",
         "| 54", "g", { "name": "bb", "sustain": -1 }, "eb^", "c", { "name": "eb", "sustain": -1 }, "g",
         "| 55", "a_", { "name": "c", "sustain": -1 }, "f", "eb", { "name": "d", "sustain": -1 }, "c",
-        { "sustain": -1 },
+        { "dynamic": 2, "sustain": -1 },
         "| 56", "bb_", "d", "d", "d", "d", "d",
         "| 57", "c", "c", "c", "c", "c", "c",
         "| 58", "d", "d", "d", "d", "d", "d",
         "| 59", "c", "c", "c", "c", "c", "c",
-        "| 60", "d"
-
+        { "beat": 6 },
+        "| 60", "d 1b +3", "r 3b -3", { "name": "c^ 3b", "sustain": true },
+        "d^ 1b +3", "r 3b -3", { "name": "a 5b", "sustain": true },
+        "bb 2b"
     ]
 }

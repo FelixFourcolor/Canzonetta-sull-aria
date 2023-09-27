@@ -58,6 +58,10 @@
         "| 53", "r", { "name": "bb_", "dynamic": 3, "sustain": -2 }, { "name": "bb_", "dynamic": 3, "sustain": -2 },
         "bb_ 3b 3b", { "dynamic": 1, "sustainDynamic": 1 }, { "name": "eb^", "sustain": -1 }, "r 2b",
         "||55",
-        "| 56", { "name": "f 6b 6b 6b 6b 1b", "sustain": -2 }
+        "| 56", "f 6b 6b 6b 6b",
+        { "beat": 6 },
+        "| 60", { "name": "f 1b +3", "sustain": -1 }, "r 6b -3",
+        "r 4b", { "name": "f 5b", "sustain": -2 },
+        { "name": "bb_ 2b", "sustain": -2 }
     ]
 }
