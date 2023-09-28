@@ -1,7 +1,7 @@
 # Canzonetta sull'aria
-"Canzonetta sull'aria" in Mozart's Le nozze di Figaro, arranged for Minecraft's noteblocks.
+"Sull'aria ... che soave zeffiretto" in Mozart's Le nozze di Figaro, arranged for Minecraft's noteblocks.
 
-Recording: https://youtu.be/Xl7S07r3emA
+Recording: https://youtu.be/2ZWYiuBa7NQ
 
 ## Arrangement
 Instrumentation:
@@ -17,7 +17,7 @@ Tranposed up one semitone to better fit noteblock's ranges. However, a few notes
 ## Play requirements
 Minecraft java 1.20+ if you play the pre-built world, 1.19+ if you build from source.
 
-Either way, go to Music & Sounds setting, turn on Directional Audio and turn down Jukebox/Note Blocks sound level to 70%.
+Either way, go to Music & Sounds setting, turn on Directional Audio and turn down Jukebox/Note Blocks sound level to 65%.
 
 ## Easy install 
 Copy the [World](https://github.com/FelixFourcolor/Canzonetta-sull-aria/tree/main/World) folder into your saves.
